@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Lahuta_e_Malcis_-_Part_1_Pages_1-50_-_Flip_PDF_Download___FlipHTML5.pdf_page_9.png</fileName>
+      <fileIdentifier>pdf//Lahuta_e_Malcis_-_Part_1_Pages_1-50_-_Flip_PDF_Download___FlipHTML5.pdf</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1298" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT2478" LABEL="PageNumber" DESCRIPTION="block type PageNumber"/><OtherTag ID="BT2479" LABEL="Footnotes" DESCRIPTION="block type Footnotes"/><OtherTag ID="BT2480" LABEL="PageHeadings" DESCRIPTION="block type PageHeadings"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT549" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        <TextBlock HPOS="99"
+                   VPOS="51"
+                   WIDTH="288"
+                   HEIGHT="57"
+                   ID="eSc_textblock_cfe33fc0"
+                   TAGREFS="BT2480">
+          <Shape><Polygon POINTS="372 51 387 86 372 108 102 108 99 51"/></Shape>
+          <TextLine ID="eSc_line_a50e5266"
+                    TAGREFS="LT549"
+                    BASELINE="93 86 377 86" 
+                    HPOS="93"
+                    VPOS="58"
+                    WIDTH="284"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="370 58 93 58 93 86 93 104 377 104 377 86 377 71 370 58"/></Shape>
+	    <String CONTENT="15/1012024, 14:48"
+                    HPOS="93"
+                    VPOS="58"
+                    WIDTH="284"
+                    HEIGHT="46"
+                    WC="0.9946401259478401"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="447"
+                   VPOS="660"
+                   WIDTH="1633"
+                   HEIGHT="1281"
+                   ID="eSc_textblock_2e50dcc9"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="1970 667 1984 738 1962 797 2021 850 2006 980 2065 1019 2051 1105 2021 1122 1977 1422 2073 1488 2080 1684 2021 1782 2006 1882 1218 1897 1084 1941 462 1941 447 748 539 660"/></Shape>
+          <TextLine ID="eSc_line_a6c206b0"
+                    TAGREFS="LT549"
+                    BASELINE="533 709 1970 705" 
+                    HPOS="532"
+                    VPOS="672"
+                    WIDTH="1438"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="533 709 533 722 1966 724 1970 705 1964 672 532 674 533 709"/></Shape>
+	    <String CONTENT="E pomendorja njimend u ngreh e madhnueshme posi Alpet tona"
+                    HPOS="532"
+                    VPOS="672"
+                    WIDTH="1438"
+                    HEIGHT="52"
+                    WC="0.9947611021584478"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_69dadc6c"
+                    TAGREFS="LT549"
+                    BASELINE="458 766 1880 760" 
+                    HPOS="456"
+                    VPOS="722"
+                    WIDTH="1424"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="456 737 458 766 458 782 1878 775 1880 760 1876 729 964 722 963 722 961 722 928 731 493 724 491 724 489 724 460 731 456 737"/></Shape>
+	    <String CONTENT="gëlqerore. Njequlla e vjeshtës e plajmi i dimnit në kalim mund t’i"
+                    HPOS="456"
+                    VPOS="722"
+                    WIDTH="1424"
+                    HEIGHT="60"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7625000e"
+                    TAGREFS="LT549"
+                    BASELINE="456 819 1880 819" 
+                    HPOS="456"
+                    VPOS="782"
+                    WIDTH="1424"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="456 819 456 837 1878 837 1880 819 1876 782 456 786 456 819"/></Shape>
+	    <String CONTENT="mbulojë bjeshkët dinarike tona, por fill mbas cikolet e majeve, si"
+                    HPOS="456"
+                    VPOS="782"
+                    WIDTH="1424"
+                    HEIGHT="55"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1555699e"
+                    TAGREFS="LT549"
+                    BASELINE="456 878 2008 878" 
+                    HPOS="456"
+                    VPOS="847"
+                    WIDTH="1552"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="456 878 456 894 2008 894 2008 878 2008 847 456 847 456 878"/></Shape>
+	    <String CONTENT="te ishin lá né argjend, gesin kryet madhnisht mbi rê dhe prekin rishtas"
+                    HPOS="456"
+                    VPOS="847"
+                    WIDTH="1552"
+                    HEIGHT="47"
+                    WC="0.9992056585646965"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_73cf4f45"
+                    TAGREFS="LT549"
+                    BASELINE="458 936 1922 936" 
+                    HPOS="458"
+                    VPOS="903"
+                    WIDTH="1464"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="458 936 458 953 1922 953 1922 936 1922 903 458 903 458 936"/></Shape>
+	    <String CONTENT="qiellin e kaltërt, ashtu mënia e inadi, fanatizmi e dispjeku helmues"
+                    HPOS="458"
+                    VPOS="903"
+                    WIDTH="1464"
+                    HEIGHT="50"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_32ccdac8"
+                    TAGREFS="LT549"
+                    BASELINE="456 997 1918 993" 
+                    HPOS="454"
+                    VPOS="953"
+                    WIDTH="1464"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="456 997 456 1010 1917 1006 1918 993 1915 958 577 953 576 953 454 962 456 997"/></Shape>
+	    <String CONTENT="mundet, po, ta venë mënjanë apo t’i hjellë çagjë Lahutës, por kurr"
+                    HPOS="454"
+                    VPOS="953"
+                    WIDTH="1464"
+                    HEIGHT="57"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4616ad20"
+                    TAGREFS="LT549"
+                    BASELINE="458 1052 2058 1048" 
+                    HPOS="456"
+                    VPOS="1010"
+                    WIDTH="1602"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="2052 1015 487 1010 486 1010 484 1010 456 1019 458 1052 458 1078 566 1067 632 1076 634 1076 636 1076 638 1076 654 1065 809 1076 827 1076 829 1076 836 1076 891 1065 948 1065 963 1074 964 1076 966 1076 968 1076 970 1076 997 1074 1082 1065 1300 1065 1319 1070 1330 1074 1331 1074 1333 1074 1359 1070 1403 1063 1443 1070 1471 1074 1473 1074 1507 1068 1548 1063 1566 1068 1583 1074 1585 1074 1586 1074 1621 1068 1649 1063 1693 1067 1761 1074 1762 1074 2056 1063 2058 1048 2056 1037 2052 1015"/></Shape>
+	    <String CONTENT="s’kanë për të mujtë ta qesin në harresë, ta thejnë apo ta coptojnë. Rrufè"
+                    HPOS="456"
+                    VPOS="1010"
+                    WIDTH="1602"
+                    HEIGHT="68"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9a0382a4"
+                    TAGREFS="LT549"
+                    BASELINE="456 1109 1922 1109" 
+                    HPOS="456"
+                    VPOS="1076"
+                    WIDTH="1466"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="456 1109 456 1125 1922 1125 1922 1109 1922 1076 456 1076 456 1109"/></Shape>
+	    <String CONTENT="e mot, që qjuejnë majet, shkrehen e kalojnë: majet qëndrojnë dhe"
+                    HPOS="456"
+                    VPOS="1076"
+                    WIDTH="1466"
+                    HEIGHT="49"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e6c92110"
+                    TAGREFS="LT549"
+                    BASELINE="456 1167 1995 1164" 
+                    HPOS="454"
+                    VPOS="1131"
+                    WIDTH="1541"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="456 1167 456 1182 1994 1178 1995 1164 1990 1131 454 1133 456 1167"/></Shape>
+	    <String CONTENT="s’lëkunden: mëni e harresë e bâjnë Lahutën të heshtojë, atê e vjerrin"
+                    HPOS="454"
+                    VPOS="1131"
+                    WIDTH="1541"
+                    HEIGHT="51"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_208cb801"
+                    TAGREFS="LT549"
+                    BASELINE="456 1224 1957 1224" 
+                    HPOS="456"
+                    VPOS="1189"
+                    WIDTH="1501"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="456 1224 456 1241 1957 1241 1957 1224 1957 1189 456 1189 456 1224"/></Shape>
+	    <String CONTENT="në kuj, por kuji me Lahutë bâhet trà kulmi në kullën e Shqiptarizmit."
+                    HPOS="456"
+                    VPOS="1189"
+                    WIDTH="1501"
+                    HEIGHT="52"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1f856a95"
+                    TAGREFS="LT549"
+                    BASELINE="458 1281 643 1281" 
+                    HPOS="458"
+                    VPOS="1246"
+                    WIDTH="185"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="458 1281 458 1298 643 1298 643 1281 643 1246 458 1246 458 1281"/></Shape>
+	    <String CONTENT="Këndej:"
+                    HPOS="458"
+                    VPOS="1246"
+                    WIDTH="185"
+                    HEIGHT="52"
+                    WC="0.9991086944937706"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d0cc368d"
+                    TAGREFS="LT549"
+                    BASELINE="537 1340 1984 1336" 
+                    HPOS="535"
+                    VPOS="1296"
+                    WIDTH="1449"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="537 1340 537 1354 1983 1351 1984 1336 1981 1303 548 1296 546 1296 544 1296 543 1296 535 1301 537 1340"/></Shape>
+	    <String CONTENT="Pa u shembë kulm e themel Alpet, nga të cilat u xuer Lahuta, kjo"
+                    HPOS="535"
+                    VPOS="1296"
+                    WIDTH="1449"
+                    HEIGHT="58"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_56e50c82"
+                    TAGREFS="LT549"
+                    BASELINE="458 1393 1889 1397" 
+                    HPOS="456"
+                    VPOS="1351"
+                    WIDTH="1433"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="458 1393 456 1406 1885 1409 1889 1397 1887 1364 1561 1353 1559 1353 1518 1362 1517 1362 1513 1362 1482 1353 1480 1353 1478 1353 1476 1353 1474 1353 1463 1362 1462 1364 1315 1364 1300 1362 1210 1353 1208 1353 1207 1353 1179 1362 1174 1362 1166 1362 1111 1351 1109 1351 1051 1360 1049 1360 992 1351 990 1351 911 1360 906 1360 898 1360 748 1351 746 1351 744 1351 726 1360 724 1360 720 1360 676 1351 675 1351 673 1351 649 1360 645 1360 631 1360 510 1351 508 1351 458 1358 458 1393"/></Shape>
+	    <String CONTENT="s’ka për t’u dermue. Edhe sot, e sidomos sot, kur Lahuta s’ka as"
+                    HPOS="456"
+                    VPOS="1351"
+                    WIDTH="1433"
+                    HEIGHT="58"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6533468f"
+                    TAGREFS="LT549"
+                    BASELINE="460 1453 1873 1450" 
+                    HPOS="458"
+                    VPOS="1411"
+                    WIDTH="1415"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="460 1453 460 1468 1871 1464 1873 1450 1869 1419 489 1411 487 1411 486 1411 458 1420 460 1453"/></Shape>
+	    <String CONTENT="s’guxon kush të ia luejë gishtat as të ia ujdisë qimet, ajo pret në"
+                    HPOS="458"
+                    VPOS="1411"
+                    WIDTH="1415"
+                    HEIGHT="57"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2d742520"
+                    TAGREFS="LT549"
+                    BASELINE="458 1510 2062 1510" 
+                    HPOS="458"
+                    VPOS="1477"
+                    WIDTH="1604"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="2056 1477 458 1477 458 1510 458 1527 2060 1527 2062 1510 2060 1479 2056 1477"/></Shape>
+	    <String CONTENT="mshetësi të zemrave për të këndue rishtas kangën e Kombit e kangën e"
+                    HPOS="458"
+                    VPOS="1477"
+                    WIDTH="1604"
+                    HEIGHT="50"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_45d6446f"
+                    TAGREFS="LT549"
+                    BASELINE="456 1569 1950 1569" 
+                    HPOS="456"
+                    VPOS="1534"
+                    WIDTH="1494"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="456 1569 456 1582 1950 1582 1950 1569 1950 1534 456 1534 456 1569"/></Shape>
+	    <String CONTENT="vet. Pret me duresë të murgut Lahuta e Murqut, t’i diftojë Shqiptarit"
+                    HPOS="456"
+                    VPOS="1534"
+                    WIDTH="1494"
+                    HEIGHT="48"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_db6160e5"
+                    TAGREFS="LT549"
+                    BASELINE="456 1628 2027 1622" 
+                    HPOS="454"
+                    VPOS="1580"
+                    WIDTH="1573"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="456 1628 456 1640 2025 1635 2027 1622 2025 1591 1986 1580 1984 1580 1983 1580 1939 1589 1715 1580 1713 1580 1667 1589 1649 1580 1647 1580 1645 1580 1643 1580 1616 1589 1542 1580 1541 1580 1539 1580 1495 1591 1469 1582 1467 1582 1465 1582 1463 1582 1443 1591 1075 1582 1073 1582 1071 1582 1045 1591 979 1582 977 1582 975 1582 930 1593 911 1584 909 1584 908 1584 864 1593 827 1584 825 1584 823 1584 726 1593 702 1584 700 1584 698 1584 616 1593 548 1584 546 1584 454 1595 456 1628"/></Shape>
+	    <String CONTENT="me jehonet e veta të përmallëshme se liria e bashkimi e bâjnë Kombin"
+                    HPOS="454"
+                    VPOS="1580"
+                    WIDTH="1573"
+                    HEIGHT="60"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2a0d40a5"
+                    TAGREFS="LT549"
+                    BASELINE="456 1684 2067 1681" 
+                    HPOS="454"
+                    VPOS="1640"
+                    WIDTH="1613"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="456 1684 456 1708 2067 1703 2067 1681 2063 1644 607 1640 605 1640 454 1650 456 1684"/></Shape>
+	    <String CONTENT="e se për ketë Komb, të pe’shtetun në besim në nji Perendl, në nderë, në"
+                    HPOS="454"
+                    VPOS="1640"
+                    WIDTH="1613"
+                    HEIGHT="68"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b441367d"
+                    TAGREFS="LT549"
+                    BASELINE="456 1743 1995 1739" 
+                    HPOS="454"
+                    VPOS="1697"
+                    WIDTH="1541"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="456 1743 456 1754 1994 1750 1995 1739 1992 1706 1300 1697 1298 1697 1229 1706 1221 1708 454 1708 456 1743"/></Shape>
+	    <String CONTENT="besë e burrni, kanë derdhë djersë e gjak, kanë dhanë dielmtë e vet e"
+                    HPOS="454"
+                    VPOS="1697"
+                    WIDTH="1541"
+                    HEIGHT="57"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_dc30a054"
+                    TAGREFS="LT549"
+                    BASELINE="456 1796 1968 1796" 
+                    HPOS="456"
+                    VPOS="1765"
+                    WIDTH="1512"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="456 1785 456 1796 456 1813 1968 1813 1968 1796 1968 1765 465 1765 456 1785"/></Shape>
+	    <String CONTENT="kann flijue plang e shpi, jetë e familje herojtë e kënduem në Lahutë."
+                    HPOS="456"
+                    VPOS="1765"
+                    WIDTH="1512"
+                    HEIGHT="48"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_af02406c"
+                    TAGREFS="LT549"
+                    BASELINE="456 1855 2003 1851" 
+                    HPOS="454"
+                    VPOS="1811"
+                    WIDTH="1549"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="456 1855 456 1879 1032 1879 1049 1882 1093 1895 1095 1895 1097 1895 1177 1884 1230 1877 1330 1879 1337 1884 1348 1893 1350 1893 1352 1893 1353 1893 1397 1886 1410 1884 1421 1886 1465 1893 1467 1893 1469 1893 1471 1893 1480 1886 1489 1881 1557 1881 1568 1888 1575 1893 1577 1893 1579 1893 1581 1895 1649 1895 1649 1893 1651 1893 1662 1888 1676 1881 1999 1890 2003 1851 1999 1820 1289 1811 1287 1811 1230 1820 1225 1822 454 1822 456 1855"/></Shape>
+	    <String CONTENT="Pa këto cilsi morale s’ka Shqipni e edhe po pat Shqipni, s’âsht ajo që"
+                    HPOS="454"
+                    VPOS="1811"
+                    WIDTH="1549"
+                    HEIGHT="84"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3ccce0c9"
+                    TAGREFS="LT549"
+                    BASELINE="456 1914 1084 1914" 
+                    HPOS="456"
+                    VPOS="1871"
+                    WIDTH="628"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="456 1914 456 1928 621 1934 631 1943 631 1945 632 1945 634 1945 636 1945 638 1945 678 1934 704 1945 706 1945 708 1945 801 1932 803 1932 928 1932 930 1932 957 1945 959 1945 961 1945 1084 1932 1084 1914 1084 1882 994 1871 992 1871 990 1871 959 1881 726 1871 724 1871 649 1881 634 1871 632 1871 631 1871 629 1871 627 1871 599 1881 588 1871 587 1871 585 1871 482 1871 480 1871 478 1871 456 1881 456 1914"/></Shape>
+	    <String CONTENT="dallohet prej kombeve tjera."
+                    HPOS="456"
+                    VPOS="1871"
+                    WIDTH="628"
+                    HEIGHT="74"
+                    WC="0.9994919406516212"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="939"
+                   VPOS="58"
+                   WIDTH="1067"
+                   HEIGHT="50"
+                   ID="eSc_textblock_af2a3b5c"
+                   TAGREFS="BT2480">
+          <Shape><Polygon POINTS="1999 58 2006 93 961 108 939 100 952 58"/></Shape>
+          <TextLine ID="eSc_line_07110e5f"
+                    TAGREFS="LT549"
+                    BASELINE="944 86 1997 86" 
+                    HPOS="944"
+                    VPOS="60"
+                    WIDTH="1053"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="1992 60 961 60 944 80 944 86 944 104 1997 104 1997 86 1997 64 1992 60"/></Shape>
+	    <String CONTENT="Lahuta e Malcis-Part 1 Pages 1-50-Flip PDF Download! FlipHTMLS"
+                    HPOS="944"
+                    VPOS="60"
+                    WIDTH="1053"
+                    HEIGHT="44"
+                    WC="0.9887611173814342"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="462"
+                   VPOS="2757"
+                   WIDTH="108"
+                   HEIGHT="71"
+                   ID="eSc_textblock_6a565c3c"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="548 2757 570 2814 462 2828 467 2757"/></Shape>
+          <TextLine ID="eSc_line_3dc4e51a"
+                    TAGREFS="LT549"
+                    BASELINE="460 2806 554 2805" 
+                    HPOS="460"
+                    VPOS="2757"
+                    WIDTH="94"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="550 2772 541 2764 493 2757 491 2757 489 2757 473 2764 460 2795 460 2806 460 2827 552 2825 554 2805 550 2773 550 2772"/></Shape>
+	    <String CONTENT="XIV"
+                    HPOS="460"
+                    VPOS="2757"
+                    WIDTH="94"
+                    HEIGHT="70"
+                    WC="0.9929453730583191"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="95"
+                   VPOS="3197"
+                   WIDTH="578"
+                   HEIGHT="42"
+                   ID="eSc_textblock_b3368534"
+                   TAGREFS="BT1298">
+          <Shape><Polygon POINTS="665 3197 673 3239 95 3239 100 3197"/></Shape>
+          <TextLine ID="eSc_line_e58959c5"
+                    TAGREFS="LT549"
+                    BASELINE="91 3223 669 3219" 
+                    HPOS="89"
+                    VPOS="3193"
+                    WIDTH="580"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="658 3197 640 3197 621 3197 603 3197 585 3197 566 3197 548 3197 530 3197 511 3197 493 3197 475 3197 456 3197 438 3197 420 3197 401 3197 383 3197 365 3197 346 3197 328 3197 310 3197 291 3197 273 3197 255 3197 236 3197 218 3197 199 3197 181 3197 163 3197 144 3197 126 3197 108 3197 106 3193 89 3193 91 3223 91 3243 667 3239 669 3219 667 3215 658 3197"/></Shape>
+	    <String CONTENT="https://fliphtm!5, com/nqnsn/mixklbasic"
+                    HPOS="89"
+                    VPOS="3193"
+                    WIDTH="580"
+                    HEIGHT="50"
+                    WC="0.9698323592161521"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2375"
+                   VPOS="3190"
+                   WIDTH="86"
+                   HEIGHT="49"
+                   ID="eSc_textblock_6b4854d6"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="2461 3197 2461 3232 2375 3239 2388 3190"/></Shape>
+          <TextLine ID="eSc_line_9354836d"
+                    TAGREFS="LT549"
+                    BASELINE="2377 3219 2454 3224" 
+                    HPOS="2375"
+                    VPOS="3191"
+                    WIDTH="79"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="2416 3193 2397 3191 2379 3210 2377 3219 2375 3234 2450 3239 2454 3224 2454 3197 2421 3193 2416 3193"/></Shape>
+	    <String CONTENT="9/30"
+                    HPOS="2375"
+                    VPOS="3191"
+                    WIDTH="79"
+                    HEIGHT="48"
+                    WC="0.9999430179595947"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
