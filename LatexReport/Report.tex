@@ -1,0 +1,138 @@
+\documentclass[12pt]{article}
+\usepackage{graphicx} 
+\usepackage{inputenc}
+\usepackage{hyperref} 
+\usepackage{geometry} 
+\usepackage{fancyhdr} 
+\usepackage{amsmath} 
+\usepackage{lipsum} 
+\usepackage{longtable} 
+\geometry{a4paper, margin=1in}
+\usepackage{xcolor}
+\usepackage{enumitem}
+
+
+% Header and Footer Setup
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{Faculty of Humanities} % Left Header
+\fancyhead[C]{Transcription Project} % Center Header
+\fancyfoot[C]{\thepage} % Centered Page Number Footer
+
+\title{
+  \vspace{-2cm} 
+  \fontsize{30}{36}\selectfont \textbf{Faculty of Humanities} \\ 
+  \fontsize{24}{28}\selectfont Transcription of the First Thirty Pages of \\ 
+  \textit{Lahuta e Malsisë} 
+} 
+\date{}
+
+\begin{document}
+
+% Title Page
+\maketitle
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.7\linewidth]{logo_pant.jpg}
+    \caption{Logo of the University of Geneva}
+    \label{fig:logo}
+    \vspace{2cm}
+\end{figure}
+
+\vspace{\fill}
+\begin{center}
+    \textbf{Rrona Abrashi and Qendresë Buza} \\[0.5cm]
+    \textbf{January 2025} \\[1cm]
+\end{center}
+
+
+\newpage
+
+% Introduction Section
+\section*{Lahuta e Malsisë: Transcription of the First Thirty Pages}
+This project focuses on transcribing and processing the historical Albanian text, \textit{Lahuta e Malsisë}. The transcription process was carried out using the **eScriptorium** platform for handwritten text recognition (HTR) and digital transcription. The goal of this project was to create a digital transcription that can later be used for further analysis or linguistic research.
+
+
+% Overview Section
+\section*{Overview of the Project}
+The transcription of the first 30 pages of \textit{Lahuta e Malsisë} was carried out using the eScriptorium platform, a tool designed for transcribing historical texts using Optical Character Recognition (OCR). Lahuta e Malsisë, written by the poet and national hero Gjergj Fishta in 1909, is a cornerstone of Albanian literature. This epic poem, blending folklore and national history, is not only a literary masterpiece but also a significant cultural artifact. Fishta is regarded as one of Albania's most important literary figures, known for his exploration of national identity, history, and cultural traditions.
+
+\section*{About the author}
+Gjergj Fishta, born in 1871 in the Albanian Highlands, made a lasting impact on Albanian literature with his epic Lahuta e Malsisë. A poet, translator, and nationalist, Fishta's work reflects the struggles of the Albanian people, using a mixture of folklore, oral traditions, and literary forms. His works are essential for understanding the cultural and historical context of Albania’s 19th and 20th centuries. Fishta's language and poetic style have influenced many generations of writers and remain central to Albanian literary studies.
+
+\section*{The Transcription Process}
+For this project, the manuscript of Lahuta e Malsisë was already typed in computer letters, meaning the text was not handwritten but still required significant editing to ensure accuracy in transcription. The eScriptorium OCR tool helped extract the text from the scanned pages, but various errors occurred during the OCR process, especially with specific letterforms and diacritics.
+
+\section*{What we did?}
+Our goal was to transcribe the text accurately, organize the data, and export it into formats suitable for further use. The process involved three main steps: 
+
+\begin{itemize}[label=\textcolor{red}{\textbullet}]
+    \item \textcolor{red}{\textbf{Step 1: Segmentation}}
+    
+Before transcription, it was crucial to properly segment the text. Using eScriptorium, we divided each page into zones or regions, such as titles, main text, and other components. This organization helped the OCR model understand the structure of the content and improved the accuracy of the transcription. Marking these segments ensured that elements like poetic stanzas and headers were correctly identified and preserved.
+
+    \item \textcolor{red}{\textbf{Step 2: Transcription}}
+    
+After segmentation, we transcribed the text using the “catmus-print-fondue-large” OCR model integrated into eScriptorium. Although the text was already typed in computer letters, the OCR tool introduced errors due to the older orthographic style of Albanian. Common issues included:
+
+    \begin{itemize}[label={}]
+        \item {\textbf{-} “ë” being transcribed as “é” or “e”}
+        \item {\textbf{-} “q” read as “g” or “d”}
+        \item {\textbf{-} “J” rendered as “i”}
+        \item {\textbf{-} “i” misinterpreted as “!”}
+        \item {\textbf{-} “ë” being transcribed as “é” or “e”}
+    \end{itemize}
+Each page was carefully reviewed, and errors were manually corrected to maintain the linguistic accuracy and poetic structure of the original text.
+
+    \item \textcolor{red}{\textbf{Step 3: Exporting the data}}
+    
+The transcription process was done in eScriptorium, where we utilized its various features to ensure accurate text recognition and data export.
+
+\end{itemize}
+
+\section*{Challenges and Difficulties}
+During the transcription process, we faced several challenges, particularly with the OCR tool’s ability to correctly recognize certain Albanian characters and diacritics. This was especially problematic for unique Albanian letters like "ë," which the tool often misinterpreted. In addition to character recognition issues, some letter substitutions, such as “q” being read as “g” or “d,” and “J” rendered as “i,” affected the meaning of words and disrupted the text’s poetic meter. These errors were not simply typographical, and they required significant manual corrections to maintain the linguistic accuracy of the text.
+
+    \vspace{1em}
+Some examples of these challenges can be seen in the images below.
+
+\begin{enumerate}
+    \item \textbf{The first image shows how the OCR system incorrectly detected the character "i" as "!"}
+    \begin{figure}[h!]
+        \centering
+        \includegraphics[width=0.6\textwidth]{Image 1.png}
+        \caption{OCR error: "i" detected as "!"}
+        \label{fig:ocr_error1}
+    \end{figure}
+
+    \item \textbf{The second image shows how the OCR system incorrectly detected the character "ë" as "e"}
+    \begin{figure}[h!]
+        \centering
+        \includegraphics[width=0.6\textwidth]{Image 2.png}
+        \caption{OCR error: "ë" detected as "e"}
+        \label{fig:ocr_error2}
+    \end{figure}
+
+    \item \textbf{The third image shows how the OCR system incorrectly detected the character "q" as "g"}
+    \begin{figure}[h!]
+        \centering
+        \includegraphics[width=0.6\textwidth]{Image 3.png}
+        \caption{OCR error: "q" detected as "g"}
+        \label{fig:ocr_error3}
+    \end{figure}
+\end{enumerate}
+
+\section*{Conclusion}
+
+The transcription and data extraction process provided valuable insights into the challenges of working with historical texts in underrepresented languages. By documenting this workflow, we contribute to the digitization and analysis of Albanian texts, paving the way for future research in this area. This project demonstrates the effectiveness of eScriptorium for transcription and its potential for advancing the field of digital humanities.
+
+\newpage
+
+\section*{Bibliography}
+\begin{itemize}
+    \item Gabay, S., \& Clérice, T. (2024). CATMuS-Print [Large] (2024-01-30). Reconnaissance des écritures dans les imprimés. CATMuS print: un modèle générique, multilingue et diachronique. Zenodo. https://doi.org/10.5281/zenodo.10592716
+    \item Lahuta E malesise at Gjergj Fishta: Biblioteka Platon: Free download, Borrow, and streaming. Internet Archive. (n.d.). https://archive.org/details/lahuta-e-malesise-at-gjergj-fishta 
+    \item Alto: Technical metadata for Optical Character Recognition (standards, Library of Congress). (n.d.). https://www.loc.gov/standards/alto/description.html 
+\end{itemize}
+
+\end{document}
