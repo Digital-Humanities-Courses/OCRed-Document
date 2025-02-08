@@ -14,9 +14,6 @@ This repository contains the structured output of the transcription process, cat
 - *dev*: Dataset for OCR development 
 - *test*: Data for final testing 
 - *train*: Training data  
-### Files
-- *README.md*: This documentation.
-- *unige_logo.jpg*: University of Geneva logo.
 
 - ## What We Did
 ### Step 1: Image Segmentation
