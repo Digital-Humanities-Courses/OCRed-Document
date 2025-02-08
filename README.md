@@ -23,7 +23,7 @@ Uploaded scanned images into eScriptorium and manually segmented text lines.
 Used OCR models and corrected errors manually.
 
 ### Step 3: Data Export
-Extracted text in ALTO XML format and structured it.
+Extracted text in ALTO XML format.
 
 ## Contributors
 Project done as part of **Digital Humanities coursework** at the **University of Geneva**.
