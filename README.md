@@ -11,9 +11,9 @@ A project by Rrona Abrashi and Qendrese Buza, students at the University of Gene
 This repository contains the structured output of the transcription process, categorized into
 ### Folders:
 - *LatexReport*: Contains a more detailed related to the project.
-- *dev*  
-- *test* 
-- *train* 
+- *dev*: Dataset for OCR development 
+- *test*: Data for final testing 
+- *train*: Training data  
 ### Files
 - *README.md*: This documentation.
 - *unige_logo.jpg*: University of Geneva logo.
@@ -28,5 +28,5 @@ Used OCR models and corrected errors manually.
 ### Step 3: Data Export
 Extracted text in ALTO XML format and structured it.
 
-
-- 
+## Contributors
+Project done as part of **Digital Humanities coursework** at the **University of Geneva**.
