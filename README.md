@@ -9,9 +9,8 @@ A project by Rrona Abrashi and Qendrese Buza, students at the University of Gene
   
 ## Repository Structure
 This repository contains the structured output of the transcription process, categorized into different folders:
-- **LatexReport/**: Contains a more detailed related to the project.
-- **dev/** 
-- **test/** 
-- **train/** 
-- **unige_logo.jpg**: Images.
-- **README.md**: This document explaining the project.
+- ***LatexReport/***: Contains a more detailed related to the project.
+- ***dev/***  
+- ***test/*** 
+- ***train/*** 
+- ***unige_logo.jpg***: Images.
