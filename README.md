@@ -25,5 +25,5 @@ Used OCR models and corrected errors manually.
 ### Step 3: Data Export
 Extracted text in ALTO XML format.
 
-## Contributors
+## Credits
 Project done as part of **Digital Humanities coursework** at the **University of Geneva**.
