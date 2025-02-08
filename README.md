@@ -10,13 +10,23 @@ A project by Rrona Abrashi and Qendrese Buza, students at the University of Gene
 ## Repository Structure
 This repository contains the structured output of the transcription process, categorized into
 ### Folders:
-- *LatexReport/*: Contains a more detailed related to the project.
-- *dev/***  
-- *test/* 
-- *train/* 
-- *unige_logo.jpg*: Images.
+- *LatexReport*: Contains a more detailed related to the project.
+- *dev*  
+- *test* 
+- *train* 
 ### Files
 - *README.md*: This documentation.
 - *unige_logo.jpg*: University of Geneva logo.
+
+- ## What We Did
+### Step 1: Image Segmentation
+Uploaded scanned images into eScriptorium and manually segmented text lines.
+
+### Step 2: Transcription
+Used OCR models and corrected errors manually.
+
+### Step 3: Data Export
+Extracted text in ALTO XML format and structured it.
+
 
 - 
