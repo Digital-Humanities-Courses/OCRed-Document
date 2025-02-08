@@ -15,7 +15,7 @@ This repository contains the structured output of the transcription process, cat
 - *test*: Data for final testing 
 - *train*: Training data  
 
-- ## What We Did
+## What We Did
 ### Step 1: Image Segmentation
 Uploaded scanned images into eScriptorium and manually segmented text lines.
 
