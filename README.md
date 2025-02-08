@@ -8,10 +8,10 @@ A project by Rrona Abrashi and Qendrese Buza, students at the University of Gene
 - The project includes the OCR-processed and manually corrected transcription of the Albanian epic, which consists of various stanzas and thematic elements. The text has been segmented, transcribed, and annotated for accuracy.
   
 ## Repository Structure
-- This repository contains the structured output of the transcription process, categorized into different folders:
-**LatexReport/**: Contains a more detailed related to the project.
-**dev/** 
-**test/** 
-**train/** 
-**unige_logo.jpg**: Images.
-**README.md**: This document explaining the project.
+This repository contains the structured output of the transcription process, categorized into different folders:
+- **LatexReport/**: Contains a more detailed related to the project.
+- **dev/** 
+- **test/** 
+- **train/** 
+- **unige_logo.jpg**: Images.
+- **README.md**: This document explaining the project.
