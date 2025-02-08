@@ -9,4 +9,4 @@ A project by Rrona Abrashi and Qendrese Buza, students at the University of Gene
   
 ## Repository Structure
 - This repository contains the structured output of the transcription process, categorized into different folders:
-<span style="color:lightblue">Contains a more detailed related to the project.</span>
+<span style="color:lightblue">Contains a more detailed related to the project.</span> 
